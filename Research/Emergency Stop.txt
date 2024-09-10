@@ -1,0 +1,43 @@
+Първи вариант: XB5AS8444
+https://www.se.com/id/en/product/XB5AS8444/red-%C3%B840-emergency-stop-switching-off-%C3%B822-trigger-latching-turn-release-2nc/
+
+В линка е с две секции. Може да се добави още една секция https://www.se.com/id/en/product/ZBE102/single-contact-block-for-head-%C3%B822-1nc-silver-alloy-screw-clamp-terminal/
+
+Сертифициран е за 6 A at 120 V, AC-15
+Според мен няма проблем за приложението.
+
+Ако се добави допълнителната секция, на батерията могат да се свържат 2 серийно. И така вече ще има и приличен запас.
+
+
+
+Втори вариант:
+https://www.kedu.cn/products_cont.php?id=158
+Може да се купи тук:
+https://www.amazon.com/Emergency-Pushbutton-Industrial-Electrical-Appliances/dp/B08LL857ZK
+https://www.alibaba.com/product-detail/KEDU-Push-Button-Switch-IP66-High_1600082062817.html?spm=a2700.7735675.0.0.2d3bEvi5Evi5PY&s=p
+https://vi.aliexpress.com/i/32923627399.html?gatewayAdapt=glo2vnm
+
+Има две секции и пак е IP65. Изглежда е най мощния от китайския пазар.
+
+
+
+Трети вариант: Изисква разработване на съответна платка: Гъбата управлява ресет намотката, някакъв малък бутон включва обратно релетата. По едно реле за батерията и за соларния вход. 
+
+Има два варианта за релата
+ 	https://www.mouser.bg/ProductDetail/Panasonic-Industrial-Devices/ADW1224HLW?qs=Uem7cGQRk%252Br7CTuHq6VGVg%3D%3D
+и тези китайци имат голям избор:
+	https://www.hongfa.com/product/list/latching-relay#
+Като това ми се вижда най подходящо: https://www.hongfa.com/product/latching-relay/HFE10 във варианта HFE10-2-24-HT-L2 или HFE10-2-48-HT-L2
+Предлага се от много китайски търговци. 
+Може лесно да се поръчат единични бройки: https://vi.aliexpress.com/item/1005007102760599.html?spm=a2g0o.productlist.main.17.48d24e84WWAnOn&algo_pvid=9548243c-5f37-4387-a06c-6f4c66f4face&algo_exp_id=9548243c-5f37-4387-a06c-6f4c66f4face-8&pdp_npi=4%40dis%21EUR%2119.95%2119.95%21%21%21153.47%21153.47%21%40211b8c6317259013159046907e1cc3%2112000039408707372%21sea%21BG%21131496989%21X&curPageLogUid=vpJWTNvov9Du&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+Четвърти вариант:
+https://www.fanhar.com/en/products/98.html
+https://www.alibaba.com/product-detail/FH35L-40-Latching-Relay-2-sets_1600805617413.html
+
+
+Друг китайски производител е 
+https://www.great-relay.com/product/category/latching-relay?gad_source=1&gclid=CjwKCAjwufq2BhAmEiwAnZqw8pwF47LrLhkAqDbNKSSTlQ2h9rDF1mVgCxr7Jh83TP0wkm8vECnv9RoCwq0QAvD_BwE
+
+
+
